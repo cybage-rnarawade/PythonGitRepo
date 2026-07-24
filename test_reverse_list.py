@@ -6,4 +6,6 @@ def test_reversed_function():
     print(reversed_numbers)
     print("reversed list", numbers[::-1])  # reversed list
 
+    assert reversed_numbers == [9, 8, 7, 6, 5, 4, 3, 2, 1]
+
 test_reversed_function()
