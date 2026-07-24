@@ -1,4 +1,4 @@
 def test_local_function():
-    text="Output of new local file added in github"
-    print(text)
-    assert text=="Output of new local file added in github"
+    message = "Output of new local file added in github"
+
+    assert message == "Output of new local file added in github"
