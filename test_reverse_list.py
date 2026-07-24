@@ -3,4 +3,4 @@ print(numbers) #original list
 
 reversed_numbers=numbers[::-1]
 print(reversed_numbers)
-print(numbers[::-1]) #reversed list
+print("reversed list",numbers[::-1]) #reversed list

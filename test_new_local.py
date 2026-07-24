@@ -1,1 +1,1 @@
-print("Local new file to be added in github")
+print("Output of new local file added in github")
