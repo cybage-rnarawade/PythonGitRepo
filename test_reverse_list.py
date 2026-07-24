@@ -1,6 +1,3 @@
-import pytest
-
-@pytest.Function
 def test_reversed_function():
     numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9]
     print(numbers)  # original list
