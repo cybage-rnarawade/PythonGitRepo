@@ -1,4 +1,6 @@
+import pytest
 
+@pytest.Function
 def test_local_function():
     print("Output of new local file added in github")
 
